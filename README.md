@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Infrastructure
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Python and .NET
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with Javascript
 <!-- - 💬 Ask me about ... -->
