@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Infrastructure
-- 🌱 I’m currently learning Python and .NET
+- 🔭 I’m currently working on Infrastructure, Cloud and Sec
+- 🌱 I’m currently learning Python and C#
 <!-- - 👯 I’m looking to collaborate on ... -->
-- 🤔 I’m looking for help with Javascript
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: linkedin.com/in/marcsfel/ | e-mail: marcsfelsouza@gmail.com
 - 😄 Pronouns: He | Him
